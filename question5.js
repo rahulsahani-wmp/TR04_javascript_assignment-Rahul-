@@ -17,6 +17,6 @@ function taskinput() {
       console.log("Good Work");
       output.innerHTML="Good Work" 
     } 
-    else console.log("Not Match");
-    output.innerHTML="Not Match"
+    else console.log("Not Matched");
+    output.innerHTML="Not Matched"
   }
