@@ -9,5 +9,5 @@ var student = {
     {count++;
         // console.log(student[x]);
     }
-    console.log(c);
+    console.log(count);
     
