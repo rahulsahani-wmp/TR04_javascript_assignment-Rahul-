@@ -9,6 +9,6 @@ for (let i = 0; i < input.length; i++) {
   }
 }
 
-console.log(input);
+console.log("input string : " + input);
 
-console.log(output);
+console.log("output string : " + output);
